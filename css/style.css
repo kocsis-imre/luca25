@@ -1,0 +1,39 @@
+@font-face {
+    src: url(../font/GreatVibes-Regular.ttf);
+        font-family: GreatVibes-Regular;
+}
+.offcanvas-menu{
+    background-image: url(../img/menu-bg.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+.alpha-slider-caption {
+    background-color: rgba(127, 0, 0, 0.5);
+    padding: 50px 0;
+}
+h2 {
+    font-family: GreatVibes-Regular;
+}
+.textfresh {
+    color: #660000;
+}
+.parallax-inner {
+    background-color: rgba(153, 0, 0, 0.4);
+    margin-left: -15px;
+    margin-right: -15px;
+}
+mark {
+    background-color: rgba(83, 192, 29, 0.8);
+    color: #fff;
+}
+#fb-button {
+   width: 187px; 
+   height: 46px; 
+}
+.form-control:focus {
+    border-color: darkgreen;
+    box-shadow: 0 0 0 0.2rem rgba(0, 102, 0, 0.3);
+}
+.grid-item {
+    margin-bottom: 2rem;
+}
